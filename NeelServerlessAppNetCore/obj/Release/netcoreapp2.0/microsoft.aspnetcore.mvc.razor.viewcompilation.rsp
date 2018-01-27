@@ -1,0 +1,11 @@
+c:\users\e074368\documents\visual studio 2017\Projects\NeelServerlessAppNetCore\NeelServerlessAppNetCore
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=NeelServerlessAppNetCore
+--content-root=c:\users\e074368\documents\visual studio 2017\Projects\NeelServerlessAppNetCore\NeelServerlessAppNetCore
+--file=c:\users\e074368\documents\visual studio 2017\Projects\NeelServerlessAppNetCore\NeelServerlessAppNetCore\Pages\Error.cshtml
+--file=c:\users\e074368\documents\visual studio 2017\Projects\NeelServerlessAppNetCore\NeelServerlessAppNetCore\Pages\Help.cshtml
+--file=c:\users\e074368\documents\visual studio 2017\Projects\NeelServerlessAppNetCore\NeelServerlessAppNetCore\Pages\Index.cshtml
+--file=c:\users\e074368\documents\visual studio 2017\Projects\NeelServerlessAppNetCore\NeelServerlessAppNetCore\Pages\_Layout.cshtml
+--file=c:\users\e074368\documents\visual studio 2017\Projects\NeelServerlessAppNetCore\NeelServerlessAppNetCore\Pages\_ValidationScriptsPartial.cshtml
+--file=c:\users\e074368\documents\visual studio 2017\Projects\NeelServerlessAppNetCore\NeelServerlessAppNetCore\Pages\_ViewImports.cshtml
+--file=c:\users\e074368\documents\visual studio 2017\Projects\NeelServerlessAppNetCore\NeelServerlessAppNetCore\Pages\_ViewStart.cshtml

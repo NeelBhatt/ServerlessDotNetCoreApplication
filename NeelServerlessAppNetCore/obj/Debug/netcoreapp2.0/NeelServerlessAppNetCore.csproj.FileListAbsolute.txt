@@ -1,0 +1,11 @@
+c:\users\e074368\documents\visual studio 2017\Projects\NeelServerlessAppNetCore\NeelServerlessAppNetCore\bin\Debug\netcoreapp2.0\NeelServerlessAppNetCore.deps.json
+c:\users\e074368\documents\visual studio 2017\Projects\NeelServerlessAppNetCore\NeelServerlessAppNetCore\bin\Debug\netcoreapp2.0\NeelServerlessAppNetCore.runtimeconfig.json
+c:\users\e074368\documents\visual studio 2017\Projects\NeelServerlessAppNetCore\NeelServerlessAppNetCore\bin\Debug\netcoreapp2.0\NeelServerlessAppNetCore.runtimeconfig.dev.json
+c:\users\e074368\documents\visual studio 2017\Projects\NeelServerlessAppNetCore\NeelServerlessAppNetCore\bin\Debug\netcoreapp2.0\NeelServerlessAppNetCore.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelServerlessAppNetCore\NeelServerlessAppNetCore\bin\Debug\netcoreapp2.0\NeelServerlessAppNetCore.pdb
+c:\users\e074368\documents\visual studio 2017\Projects\NeelServerlessAppNetCore\NeelServerlessAppNetCore\obj\Debug\netcoreapp2.0\NeelServerlessAppNetCore.csprojResolveAssemblyReference.cache
+c:\users\e074368\documents\visual studio 2017\Projects\NeelServerlessAppNetCore\NeelServerlessAppNetCore\obj\Debug\netcoreapp2.0\NeelServerlessAppNetCore.csproj.CoreCompileInputs.cache
+c:\users\e074368\documents\visual studio 2017\Projects\NeelServerlessAppNetCore\NeelServerlessAppNetCore\obj\Debug\netcoreapp2.0\NeelServerlessAppNetCore.AssemblyInfoInputs.cache
+c:\users\e074368\documents\visual studio 2017\Projects\NeelServerlessAppNetCore\NeelServerlessAppNetCore\obj\Debug\netcoreapp2.0\NeelServerlessAppNetCore.AssemblyInfo.cs
+c:\users\e074368\documents\visual studio 2017\Projects\NeelServerlessAppNetCore\NeelServerlessAppNetCore\obj\Debug\netcoreapp2.0\NeelServerlessAppNetCore.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelServerlessAppNetCore\NeelServerlessAppNetCore\obj\Debug\netcoreapp2.0\NeelServerlessAppNetCore.pdb
